@@ -1,5 +1,5 @@
 USAGE:
-    lt [FLAGS/<path>]
+    run exec.py [FLAGS/<path>]
 
 FLAGS:
     -h, --help          Prints help information
