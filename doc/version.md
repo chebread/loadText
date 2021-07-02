@@ -1,1 +1,1 @@
-loadtext 1.0.0
+loadtext 2.0
